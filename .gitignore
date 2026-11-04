@@ -1,0 +1,13 @@
+.env
+.env.*
+*.private.*
+*.xlsx
+*.xls
+*.csv
+*.log
+credentials*
+secrets*
+execution-dumps/
+private/
+node_modules/
+__pycache__/
